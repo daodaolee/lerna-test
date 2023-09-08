@@ -1,12 +1,13 @@
 {
   "name": "constant",
   "version": "0.0.4",
-  "description": "",
+  "description": "a desct",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "08383ed8c6d51f997fb62394ce09adaaef0e4574"
 }
