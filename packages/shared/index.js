@@ -3,4 +3,5 @@ function getDate(){
 }
 
 const moduleCore = require('core')
+console.log(' 🦖', '\n', '├──', 'moduleCore', '\n', '└──', moduleCore, '\n')
 console.log(' 🛻', '\n', '├──', 'moduleCore', '\n', '└──', moduleCore, '\n')
